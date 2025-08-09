@@ -25,7 +25,5 @@ module.exports = {
     '*.d.ts',
   ],
   rules: {
-    // You can add or override any rules here, for example:
-    // "no-console": "warn", // Warn when using console.log
   },
 };
